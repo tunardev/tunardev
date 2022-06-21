@@ -9,7 +9,7 @@
    
 ## 🧐 About
 
-Hello, I'm Tunar. I was born in Azerbaijan and I live here. I started learning my language in the first program in the 6th grade. I am interested in backend development and comperatitive programming.
+Hello, I'm Tunar. I was born in Azerbaijan and I live here. I started learning my language in the first program in the 6th grade. I am interested in backend development and competitive programming.
  
 <br />
    
